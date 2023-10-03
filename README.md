@@ -1,4 +1,4 @@
-#Traveler Helper
+# Traveler Helper
 
 Traveler Helper is the solution to meet all travelers needs within one bot in one app. 
 It is a Discord bot created using Python with the integration of these functionalities:
@@ -13,5 +13,5 @@ The followings APIs will be utilized respectively:
 * TripAdivsor or Google Places
 * Google Cloud Translation
 
-SDK: Python 3.8 (travelerBot)
+SDK: Python 3.8 (travelerBot),
 Tested on macOS Monterey Version 12.6.6
