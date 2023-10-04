@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c1cc79-8b29-4a2a-b484-cd1613a39663" name="Changes" comment="tested open exchange rates API, open weather API, &amp; translator library">
+    <list default="true" id="79c1cc79-8b29-4a2a-b484-cd1613a39663" name="Changes" comment="updated README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696363973074</updated>
-      <workItem from="1696363974566" duration="8333000" />
+      <workItem from="1696363974566" duration="9770000" />
     </task>
     <task id="LOCAL-00001" summary="updated README.md">
       <option name="closed" value="true" />
@@ -94,18 +95,34 @@
       <option name="project" value="LOCAL" />
       <updated>1696386402029</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="workspace.xml updated">
+      <option name="closed" value="true" />
+      <created>1696386486189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696386486189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated README.md">
+      <option name="closed" value="true" />
+      <created>1696386668111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696386668111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="workspace.xml updated" />
-    <MESSAGE value="updated README.md" />
     <MESSAGE value="Initialize Discord bot" />
     <MESSAGE value="tested open exchange rates API, open weather API, &amp; translator library" />
-    <option name="LAST_COMMIT_MESSAGE" value="tested open exchange rates API, open weather API, &amp; translator library" />
+    <MESSAGE value="workspace.xml updated" />
+    <MESSAGE value="updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/travelerBot$bot.coverage" NAME="bot Coverage Results" MODIFIED="1696385844692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/script" />
