@@ -6,6 +6,7 @@ from translate import Translator
 intents = discord.Intents.default()
 intents.typing = False
 intents.presences = False
+intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
@@ -22,7 +23,6 @@ async def hello(ctx):
 async def on_message(message):
     if message.author == bot.user:
         return
-
     if message.content.lower() == 'hello':
         await message.channel.send(f'Hello, {message.author.mention}!')
 
